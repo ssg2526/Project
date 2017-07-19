@@ -2,6 +2,8 @@
 #include<stdio.h>
 #include<fstream>
 #include<cmath>
+
+
 using namespace std;
 struct shield{
 	int l_leg, r_leg, mark, flag, slopel, sloper, last_set;
